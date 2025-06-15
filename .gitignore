@@ -1,0 +1,6 @@
+#ignore python
+venv/
+#ignore pycache
+__pycache__/
+#ignore compiled python files
+*.pyc
